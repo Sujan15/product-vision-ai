@@ -1,0 +1,23 @@
+# Web API
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.29,<1.0
+python-multipart>=0.0.9
+
+# Deep Learning / Inference
+ultralytics>=8.2.0
+#onnxruntime-openmp>=1.17.0   # Optimized multi-core CPU ONNX
+onnxruntime>=1.17.0
+
+# Vector Search
+faiss-cpu>=1.8.0
+
+# Computer Vision
+opencv-python-headless>=4.9.0
+pillow>=10.0.0
+
+# Data handling
+numpy>=1.26
+pandas>=2.2.0
+
+# Dashboard
+streamlit>=1.32.0
