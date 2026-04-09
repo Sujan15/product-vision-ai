@@ -1,0 +1,34 @@
+{
+    "0": {
+        "id": "CHEESE",
+        "name": "cheese"
+    },
+    "1": {
+        "id": "JOLPAI_ACHAR",
+        "name": "jolpai achar"
+    },
+    "2": {
+        "id": "LAYS_CHIPS_GREEN",
+        "name": "lays chips green"
+    },
+    "3": {
+        "id": "LAYS_CHIPS_RED",
+        "name": "lays chips red"
+    },
+    "4": {
+        "id": "LAYS_CHIPS_YELLOW",
+        "name": "lays chips yellow"
+    },
+    "5": {
+        "id": "MISTRY_BOROI",
+        "name": "mistry boroi"
+    },
+    "6": {
+        "id": "POTATO_CRACKERS",
+        "name": "potato crackers"
+    },
+    "7": {
+        "id": "ZEROOS",
+        "name": "zeroos"
+    }
+}
